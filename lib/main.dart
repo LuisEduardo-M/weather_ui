@@ -9,7 +9,7 @@ void main() {
       title: 'Weather UI',
       home: const HomePage(),
       theme: ThemeData(
-        fontFamily: GoogleFonts.montserrat().fontFamily,
+        fontFamily: GoogleFonts.ubuntu().fontFamily,
       ),
     ),
   );
