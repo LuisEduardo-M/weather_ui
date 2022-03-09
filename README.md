@@ -1,8 +1,12 @@
-# weather_ui
+# Weather App UI ! :sun_behind_large_cloud: 
 
-A new Flutter project.
+Very simple Weather App UI made with Flutter ! Used this designer instagram for inspiration :arrow_right: [its.dezinx](https://www.instagram.com/its.dezinx/)
 
-## Getting Started
+## Screenshot
+
+<img src='https://user-images.githubusercontent.com/95984151/157502396-938a96a4-2925-49e3-ab51-ccfd3d27da6a.png' width=360, height=650 alt='PrintScreen'>
+
+
 
 This project is a starting point for a Flutter application.
 
